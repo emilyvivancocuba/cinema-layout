@@ -1,0 +1,169 @@
+.clearfix:before, .clearfix:after {
+	content: " ";
+	display: table;
+}
+.clearfix:after{
+	clear: both;
+}
+header div.container{
+	background: linear-gradient(to right, white, #E9E9E9);
+}
+header div.container div.row{
+	height: 56px;
+}
+#searchbutton{
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  position: relative;
+  left: -22px;
+  top: 3px;
+}
+img.logo{
+	height: 52px;
+	width: 370px;
+	margin-left: 4.5%;
+}
+div.banner{
+	background-image: url(../img/banner.jpg);
+	background-size: 850px 350px;
+	background-repeat: no-repeat;
+}
+body{
+	font-family: Arial;
+}
+.letragrey{
+	color: #CFCFCF;
+	font-size: 10px;
+	padding-top: 20px;
+}
+div.bighero6{
+	height: 350px;
+	background-color:rgb(63, 63, 63);
+	z-index: 1;
+}
+div.bighero6 h1{
+	margin-top:0;
+	font-size: 30px;
+}
+.inline-block{
+	display: inline-block;
+}
+div.all-age{
+	border: 2px solid #7EB36A;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	padding: 5px;
+	color: #7EB36A;
+}
+div.bighero6 div.row{
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+.watchbutton{
+	background-color: rgb(223, 182, 54);
+}
+.bookbutton{
+	background-color: rgb(187, 123, 41);
+}
+.watchbutton, .bookbutton{
+	width: 150px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	color: white;
+	padding: 12px;
+	margin-top: 10px;
+	display: inline-block;
+	font-size: 12px;
+}
+.tableft{
+	margin-left: 10px;
+}
+a{
+	text-decoration: none;
+}
+.watchbutton img, .bookbutton img{
+	width: 13px;
+}
+span#searchbutton img{
+	height: 15px;
+	width: 15px;
+}
+.floatr{
+	float: right;
+}
+.mostaza{
+	background-color: rgb(223, 182, 54);
+}
+article.mostaza img{
+	height: 150px;
+	width: 130px;
+}
+.pd-2{
+	padding: 20px;
+}
+iframe{
+	width: 960px;
+	height: 220px;
+}
+.descuento{
+	color: #C79355;
+}
+.plomooscuro{
+	color: #BABABA;
+}
+.plomoclaro{
+	color: #CFCFCF;
+}
+.medium{
+	font-size: 20px;
+}
+.bigletter{
+	font-size: 30px;
+}
+.littleletter{
+	font-size: 13px;
+}
+.pdt-4{
+	padding-top: 40px;
+}
+.pdb-4{
+	padding-bottom: 40px;
+}
+hr{
+	border: 1px solid rgba(211, 211, 211, 0.33);
+}
+img.imgart{
+	height: 250px;
+	width: 212px;
+}
+footer.container{
+	background-color: rgb(243, 243, 243);
+	color: #CFCFCF;
+}
+.pdt-3{
+	padding-top: 30px;
+}
+.pdl-2{
+	padding-left: 20px;
+}
+.fs-6{
+	font-size: 6px;
+}
+.secundario{
+	padding-top: 24px;
+	padding-bottom: 24px;
+}
+.pdt-2{
+	padding-top: 20px;
+}
+div.col-8.banner{
+	height: 350px !important;
+}
+img.icono{
+	width: 60px;
+	margin-left: 240px;
+	margin-top: 145px;
+}
